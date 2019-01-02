@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f68107c3-d4f2-4f35-96fd-238fa3c1b658" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GD.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two_layer_network(pytorch).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two_layer_network.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Pytorch-leanring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pytorch-leanring.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f68107c3-d4f2-4f35-96fd-238fa3c1b658" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/two_layer_network(pytorch_autograd).py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -78,11 +73,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="two_layer_network(pytorch).py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="two_layer_network(pytorch).py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/two_layer_network(pytorch).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
+            <state relative-caret-position="335">
               <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="two_layer_network(pytorch_autograd).py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/two_layer_network(pytorch_autograd).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -107,6 +111,7 @@
         <option value="$PROJECT_DIR$/GD.py" />
         <option value="$PROJECT_DIR$/GD.md" />
         <option value="$PROJECT_DIR$/two_layer_network(pytorch).py" />
+        <option value="$PROJECT_DIR$/two_layer_network(pytorch_autograd).py" />
       </list>
     </option>
   </component>
@@ -245,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546092344627</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Default Changelist">
+      <created>1546262478302</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1546262478302</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -257,9 +269,9 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32969433" />
       <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32859176" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32859176" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32859176" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.253125" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.253125" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32890624" />
@@ -285,7 +297,8 @@
     <MESSAGE value="Upload the file of data loading and processing" />
     <MESSAGE value="Add learning data set" />
     <MESSAGE value="Upload the new README" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload the new README" />
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/data_loading&amp;processing.py">
@@ -319,8 +332,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/two_layer_network(pytorch).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
+        <state relative-caret-position="335">
           <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/two_layer_network(pytorch_autograd).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
         </state>
       </provider>
     </entry>
